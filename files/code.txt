@@ -1,0 +1,8 @@
+integer $minha_vari ;
+for ( ) {
+    double $teste
+}
+while
+do
+if
+else
